@@ -1,0 +1,530 @@
+[2m2021-11-23 00:05:11.007[0;39m [33m WARN[0;39m [35m35524[0;39m [2m---[0;39m [2m[l-9 housekeeper][0;39m [36mcom.zaxxer.hikari.pool.HikariPool       [0;39m [2m:[0;39m HikariPool-9 - Thread starvation or clock leap detected (housekeeper delta=52m38s448ms193µs100ns).
+[2m2021-11-23 00:13:42.316[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 00:13:45.402[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 00:15:13.410[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 00:15:21.256[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 00:27:23.081[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 00:29:55.878[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 00:30:32.488[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 00:35:04.368[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 00:35:43.569[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 00:35:46.515[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 00:42:54.253[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 01:09:06.317[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 01:11:42.860[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 01:13:33.641[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 01:25:13.862[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 01:25:16.756[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 01:37:36.795[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 01:37:51.036[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 01:39:08.918[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 01:39:13.192[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 01:41:05.084[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 01:41:12.997[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 01:51:12.391[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 01:51:15.262[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 01:51:50.095[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 01:51:53.827[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:02:11.477[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:02:16.002[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:04:20.486[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:04:24.656[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:13:39.263[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:13:59.809[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:14:01.333[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:14:57.459[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:15:25.004[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:15:27.197[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:15:59.766[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:16:02.526[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:23:36.071[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:24:59.793[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:27:00.980[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:32:49.631[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:32:53.746[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:32:58.072[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:33:15.161[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:33:21.097[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:34:09.299[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:34:12.714[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:34:36.412[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:34:39.975[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:34:54.235[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:35:00.129[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:38:40.106[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:38:43.324[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:39:15.440[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:39:17.321[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:40:07.572[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:40:11.059[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:42:10.455[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:42:16.699[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:42:20.181[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:43:23.185[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 02:43:27.765[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:43:32.936[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:44:02.387[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:44:14.898[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:44:48.893[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 02:52:28.470[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 02:52:28.508[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 1345 ms
+[2m2021-11-23 02:52:28.816[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 02:52:29.256[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 02:52:29.866[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 02:53:37.209[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 02:53:37.242[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 808 ms
+[2m2021-11-23 02:53:37.489[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 02:53:37.553[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 02:53:37.635[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 02:54:20.168[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 02:54:20.211[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 1403 ms
+[2m2021-11-23 02:54:20.519[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 02:54:20.634[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 02:54:20.722[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 02:55:12.724[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 02:55:12.752[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 743 ms
+[2m2021-11-23 02:55:12.965[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 02:55:13.043[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 02:55:13.101[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 02:55:29.493[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 02:55:29.525[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 606 ms
+[2m2021-11-23 02:55:29.734[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 02:55:29.800[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 02:55:29.848[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 02:56:57.026[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 02:56:57.062[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 726 ms
+[2m2021-11-23 02:56:57.287[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 02:56:57.364[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 02:56:57.443[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 02:57:12.203[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 02:57:12.228[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 651 ms
+[2m2021-11-23 02:57:12.477[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 02:57:12.620[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 02:57:12.715[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 02:59:22.668[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2021-11-23 02:59:22.673[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 1 ms
+[2m2021-11-23 02:59:22.675[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:01:42.873[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:02:23.665[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:03:19.471[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:03:53.334[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:03:53.334[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:03:56.961[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:04:49.505[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:04:49.505[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:04:52.907[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:04:52.925[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:04:55.150[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:04:59.084[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:04:59.085[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:05:01.525[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:11:33.055[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:11:39.134[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:11:39.137[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:11:40.854[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:11:54.449[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:11:54.459[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:11:56.685[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:12:28.868[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:12:28.877[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:12:30.404[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:13:44.977[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:13:47.862[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:13:47.868[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:13:50.890[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:14:58.364[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:14:59.233[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:15:01.055[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:15:01.061[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:15:03.543[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:15:24.158[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:15:49.701[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:15:49.704[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:15:51.866[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:16:11.685[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:19:01.797[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:19:04.994[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:19:05.002[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:19:07.791[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:19:25.986[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:19:47.305[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:19:49.504[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:20:54.568[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 03:20:54.596[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 830 ms
+[2m2021-11-23 03:20:54.765[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 03:20:54.871[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 03:20:54.933[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 03:20:56.035[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2021-11-23 03:20:56.035[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 0 ms
+[2m2021-11-23 03:20:56.037[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:20:58.356[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:21:20.833[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:21:23.600[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:21:26.330[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:22:06.770[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:24:47.909[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:24:51.740[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:25:10.416[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:25:15.203[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:29:57.025[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:30:11.231[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:31:26.073[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:31:38.344[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:31:40.635[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:31:43.616[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:33:31.447[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 03:33:31.481[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 1181 ms
+[2m2021-11-23 03:33:31.720[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 03:33:31.827[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 03:33:31.897[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 03:34:08.622[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2021-11-23 03:34:08.627[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 1 ms
+[2m2021-11-23 03:34:08.629[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:34:48.917[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:34:55.604[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:34:59.571[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:34:59.575[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:35:02.217[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:35:02.217[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:35:05.934[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:37:25.053[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:37:25.056[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:37:26.780[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:37:46.506[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:37:46.506[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:37:47.823[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:39:01.634[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:39:01.636[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:39:03.886[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:42:01.463[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:42:01.465[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:42:02.900[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:48:39.823[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:49:15.222[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:49:17.848[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:49:17.850[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:49:21.772[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:53:29.304[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:53:31.512[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:53:31.517[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:53:33.105[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:54:03.044[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:54:05.066[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:54:05.066[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:54:06.511[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:54:24.093[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 03:54:43.269[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:54:43.274[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:54:44.622[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:55:19.868[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:55:19.868[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:55:21.484[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:57:26.352[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:57:26.359[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:57:28.574[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:58:13.135[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:58:13.137[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:58:16.172[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 03:58:56.942[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 03:58:56.945[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 03:58:59.010[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 04:03:09.360[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 04:08:07.610[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 04:08:10.483[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 04:08:10.483[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 04:08:12.096[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 04:09:04.164[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 04:09:04.164[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 04:09:06.280[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 04:09:06.280[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 04:09:07.683[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 04:09:58.799[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 04:09:58.800[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 04:10:00.355[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 04:12:41.861[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 04:13:01.692[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 04:13:01.704[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 04:13:05.737[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 04:14:04.526[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 04:14:04.531[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 04:14:06.206[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 04:14:43.876[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 09:00:25.386[0;39m [33m WARN[0;39m [35m35524[0;39m [2m---[0;39m [2m[-12 housekeeper][0;39m [36mcom.zaxxer.hikari.pool.HikariPool       [0;39m [2m:[0;39m HikariPool-12 - Thread starvation or clock leap detected (housekeeper delta=4h38m45s742ms282µs100ns).
+[2m2021-11-23 09:16:43.870[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 09:16:46.985[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:16:46.991[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:16:49.241[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:18:19.820[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:18:19.820[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:18:21.457[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:18:30.748[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:18:30.766[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:18:33.133[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:19:02.384[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:19:21.234[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:19:34.698[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:19:34.725[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:19:36.394[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:19:42.612[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:19:42.613[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:19:44.733[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:20:52.616[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 09:20:58.743[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:20:58.743[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:20:59.879[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:24:05.307[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 09:24:09.513[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:24:09.513[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:24:11.253[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:24:15.569[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:24:19.513[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:24:19.518[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:24:21.990[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:24:34.033[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:24:34.035[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:24:36.380[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:26:03.499[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:35:28.055[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:35:28.057[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:35:29.560[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:35:54.463[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:35:54.570[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:35:55.785[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:38:34.994[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:38:41.065[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:38:45.206[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:38:49.341[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:38:54.622[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:44:04.037[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:44:04.037[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:44:05.103[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:45:37.119[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:45:37.122[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:45:39.018[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:45:43.723[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:45:52.220[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:45:58.426[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:46:03.660[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:46:08.498[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:46:22.085[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:46:25.664[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:46:37.141[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:46:47.969[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:46:53.445[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:55:43.925[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 09:55:43.928[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 09:55:45.538[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 09:56:40.820[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:06:26.560[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 10:06:26.560[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 10:06:27.510[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:07:14.574[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 10:08:33.631[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 10:08:35.851[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 10:08:35.852[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 10:08:37.260[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:14:15.130[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 10:14:18.181[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 10:14:18.190[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 10:14:19.199[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:16:34.277[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 10:16:34.279[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 10:16:35.666[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:17:17.439[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 10:17:17.442[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 10:17:18.836[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:18:59.402[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 10:18:59.407[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 10:19:01.285[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:20:14.554[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 10:20:14.555[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 10:20:15.668[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:20:46.199[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 10:20:46.199[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 10:20:47.105[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:21:15.093[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:21:55.329[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 10:25:24.317[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 10:25:26.309[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 10:25:26.310[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 10:25:27.669[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:28:07.199[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:31:46.495[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 10:31:46.504[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 10:31:47.875[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:33:47.981[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:34:14.350[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 10:34:36.618[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 12:52:38.212[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 12:52:43.864[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 12:52:43.875[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 12:52:46.299[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 12:54:40.547[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 12:54:40.547[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 12:54:43.652[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 12:54:53.149[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 12:55:04.546[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 12:55:08.383[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 12:58:43.987[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 12:58:43.995[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 12:58:45.143[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 13:04:01.581[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 13:04:46.565[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 13:04:46.603[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 13:04:51.502[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 13:06:47.139[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 13:06:47.148[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 13:06:50.308[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 13:12:47.040[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 14:21:30.311[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 14:21:40.186[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 14:21:40.196[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 14:21:41.318[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 15:20:16.647[0;39m [33m WARN[0;39m [35m35524[0;39m [2m---[0;39m [2m[-12 housekeeper][0;39m [36mcom.zaxxer.hikari.pool.HikariPool       [0;39m [2m:[0;39m HikariPool-12 - Thread starvation or clock leap detected (housekeeper delta=6m8s395ms667µs300ns).
+[2m2021-11-23 15:21:20.116[0;39m [33m WARN[0;39m [35m35524[0;39m [2m---[0;39m [2m[-12 housekeeper][0;39m [36mcom.zaxxer.hikari.pool.HikariPool       [0;39m [2m:[0;39m HikariPool-12 - Thread starvation or clock leap detected (housekeeper delta=1m9s537ms224µs300ns).
+[2m2021-11-23 15:28:42.353[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 15:28:59.875[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-6][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugun - 호출
+[2m2021-11-23 15:28:59.877[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sidoname - 호출
+[2m2021-11-23 15:29:01.747[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m gugunname - 호출
+[2m2021-11-23 18:01:57.897[0;39m [33m WARN[0;39m [35m35524[0;39m [2m---[0;39m [2m[-12 housekeeper][0;39m [36mcom.zaxxer.hikari.pool.HikariPool       [0;39m [2m:[0;39m HikariPool-12 - Thread starvation or clock leap detected (housekeeper delta=43m35s803ms73µs800ns).
+[2m2021-11-23 18:08:11.181[0;39m [33m WARN[0;39m [35m35524[0;39m [2m---[0;39m [2m[-12 housekeeper][0;39m [36mcom.zaxxer.hikari.pool.HikariPool       [0;39m [2m:[0;39m HikariPool-12 - Thread starvation or clock leap detected (housekeeper delta=5m49s455ms907µs700ns).
+[2m2021-11-23 19:39:01.531[0;39m [33m WARN[0;39m [35m35524[0;39m [2m---[0;39m [2m[-12 housekeeper][0;39m [36mcom.zaxxer.hikari.pool.HikariPool       [0;39m [2m:[0;39m HikariPool-12 - Thread starvation or clock leap detected (housekeeper delta=11m47s198ms827µs200ns).
+[2m2021-11-23 20:38:41.427[0;39m [33m WARN[0;39m [35m35524[0;39m [2m---[0;39m [2m[-12 housekeeper][0;39m [36mcom.zaxxer.hikari.pool.HikariPool       [0;39m [2m:[0;39m HikariPool-12 - Thread starvation or clock leap detected (housekeeper delta=21m39s845ms627µs900ns).
+[2m2021-11-23 20:52:47.867[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-8][0;39m [36mc.s.vue.controller.HouseMapController   [0;39m [2m:[0;39m sido - 호출
+[2m2021-11-23 21:06:01.315[0;39m [32mDEBUG[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.ssafy.vue.controller.MemberController [0;39m [2m:[0;39m 로그인 토큰정보 : eyJ0eXAiOiJKV1QiLCJyZWdEYXRlIjoxNjM3NjY5MTYxMjg0LCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Mzc2NzI3NjEsInN1YiI6ImFjY2Vzcy10b2tlbiIsInVzZXJpZCI6InNzYWZ5In0.RtuS8TTr5POMow7jMHodVBZoyLMJoOsqj85v2h6bs1g
+[2m2021-11-23 21:06:01.631[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [36mc.ssafy.vue.controller.MemberController [0;39m [2m:[0;39m 사용 가능한 토큰!!!
+[2m2021-11-23 21:08:05.753[0;39m [32mDEBUG[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [36mc.ssafy.vue.controller.MemberController [0;39m [2m:[0;39m 로그인 토큰정보 : eyJ0eXAiOiJKV1QiLCJyZWdEYXRlIjoxNjM3NjY5Mjg1NzUyLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Mzc2NzI4ODUsInN1YiI6ImFjY2Vzcy10b2tlbiIsInVzZXJpZCI6InNzYWZ5In0.jVSOjvxEokuF3FiR6gnmtzSb0AjYoMW8EmTZq7q-G4c
+[2m2021-11-23 21:08:05.770[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[io-9999-exec-10][0;39m [36mc.ssafy.vue.controller.MemberController [0;39m [2m:[0;39m 사용 가능한 토큰!!!
+[2m2021-11-23 22:11:25.940[0;39m [31mERROR[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-9][0;39m [36mo.a.c.c.C.[.[.[.[dispatcherServlet]     [0;39m [2m:[0;39m Servlet.service() for servlet [dispatcherServlet] in context with path [/vue] threw exception [Request processing failed; nested exception is org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'aa' for key 'ssafy_member.PRIMARY'
+### The error may exist in file [C:\Users\ej970\git\happyhousefinalback\VueAPI\target\classes\mappers\member.xml]
+### The error may involve com.ssafy.vue.model.mapper.MemberMapper.registerUser-Inline
+### The error occurred while setting parameters
+### SQL: insert into ssafy_member (userid, userpwd, username, email)   values (?, ?, ?, ?)
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'aa' for key 'ssafy_member.PRIMARY'
+; Duplicate entry 'aa' for key 'ssafy_member.PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'aa' for key 'ssafy_member.PRIMARY'] with root cause
+
+java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'aa' for key 'ssafy_member.PRIMARY'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:371)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:47)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:194)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:427)
+	at com.sun.proxy.$Proxy82.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:272)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:62)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:145)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at com.sun.proxy.$Proxy205.registerUser(Unknown Source)
+	at com.ssafy.vue.model.service.MemberServiceImpl.registerUser(MemberServiceImpl.java:42)
+	at com.ssafy.vue.controller.MemberController.register(MemberController.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+[2m2021-11-23 22:15:46.287[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 22:15:46.317[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 853 ms
+[2m2021-11-23 22:15:46.539[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 22:15:46.619[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 22:15:46.696[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 22:16:12.180[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 22:16:12.212[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 664 ms
+[2m2021-11-23 22:16:12.399[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 22:16:12.479[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 22:16:12.575[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 22:16:22.679[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 22:16:22.717[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 718 ms
+[2m2021-11-23 22:16:22.877[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 22:16:22.969[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 22:16:23.050[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 22:16:42.172[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 22:16:42.207[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 704 ms
+[2m2021-11-23 22:16:42.476[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 22:16:42.557[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 22:16:42.607[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 22:18:30.749[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 22:18:30.794[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 662 ms
+[2m2021-11-23 22:18:31.072[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 22:18:31.210[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 22:18:31.291[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 22:18:35.573[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 22:18:35.603[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 834 ms
+[2m2021-11-23 22:18:35.874[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 22:18:36.001[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 22:18:36.075[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 22:18:54.914[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 22:18:54.947[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 578 ms
+[2m2021-11-23 22:18:55.119[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 22:18:55.198[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 22:18:55.241[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 22:25:16.964[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2021-11-23 22:25:17.004[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 25 ms
+[2m2021-11-23 22:29:24.200[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 22:29:24.229[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 918 ms
+[2m2021-11-23 22:29:24.570[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 22:29:24.630[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 22:29:24.697[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 22:29:24.771[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2021-11-23 22:29:24.773[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 1 ms
+[2m2021-11-23 22:36:34.007[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 9999 (http)
+[2m2021-11-23 22:36:34.035[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 774 ms
+[2m2021-11-23 22:36:34.292[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-11-23 22:36:34.370[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 9999 (http) with context path '/vue'
+[2m2021-11-23 22:36:34.378[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2021-11-23 22:36:34.384[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 2 ms
+[2m2021-11-23 22:36:34.457[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.ConditionEvaluationDeltaLoggingListener[0;39m [2m:[0;39m Condition evaluation unchanged
+[2m2021-11-23 22:57:08.865[0;39m [32mDEBUG[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [36mc.ssafy.vue.controller.MemberController [0;39m [2m:[0;39m 로그인 토큰정보 : eyJ0eXAiOiJKV1QiLCJyZWdEYXRlIjoxNjM3Njc1ODI4ODI2LCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Mzc2Nzk0MjgsInN1YiI6ImFjY2Vzcy10b2tlbiIsInVzZXJpZCI6ImFhMSJ9.PQa-oOEYCj_A0Qn-gsfB-YzthDDN5Y88EBtrC6QUUL8
+[2m2021-11-23 22:57:09.026[0;39m [32m INFO[0;39m [35m35524[0;39m [2m---[0;39m [2m[nio-9999-exec-4][0;39m [36mc.ssafy.vue.controller.MemberController [0;39m [2m:[0;39m 사용 가능한 토큰!!!
+[2m2021-11-23 23:18:33.607[0;39m [33m WARN[0;39m [35m35524[0;39m [2m---[0;39m [2m[-15 housekeeper][0;39m [36mcom.zaxxer.hikari.pool.HikariPool       [0;39m [2m:[0;39m HikariPool-15 - Thread starvation or clock leap detected (housekeeper delta=17m58s525ms528µs500ns).
